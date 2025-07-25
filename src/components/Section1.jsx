@@ -92,7 +92,7 @@ const splashRotate = useTransform(scrollYProgress,
 
   return (
     <div ref={containerRef} className="relative overflow-hidden">
-      {/* Section 1 - Background only */}
+      
       {/* Section 1 - Background only */}
 <section className="w-full h-screen overflow-hidden relative">
   {/* Desktop background - hidden on mobile */}

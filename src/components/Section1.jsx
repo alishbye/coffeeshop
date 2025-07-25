@@ -14,6 +14,7 @@ const Section1 = () => {
     offset: ["start start", "end end"]
   });
 
+    const ghada = 5;
   
   // Cup animations
  const scaleCup = useTransform(scrollYProgress, [0, 0.20], [1.4, 4.8]);
